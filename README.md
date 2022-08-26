@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Um quiz básico feito utilizando Flutter.
 
 ## Getting Started
 
